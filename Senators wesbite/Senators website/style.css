@@ -1,0 +1,46 @@
+.h1{
+font-family: monospace;
+}
+.div1{
+    text-align: center;
+    font-family: monospace;
+  }
+
+
+  body {
+    background-color: lightyellow;
+    }
+    
+    
+    /* This css code is from Assignment 1 I completed for this module
+     */
+    
+    .l1 {
+        border-collapse: collapse;
+        margin: 40px;
+        font-size: 16px;
+        font-family: monospace;
+      box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
+    
+    }
+    
+    .l1 thead tr {
+        background-color: navy;
+        color: #ffffff;
+        text-align: center;
+    }
+    
+    .l1 th,
+    .l1 td {
+        padding: 12px 15px;
+        
+    }
+    
+    
+    .l1 tbody tr {
+        border-bottom: 5px solid navy;
+    }
+    
+    .l1 tbody tr:last-of-type {
+        border-bottom: 5px solid navy;
+    }
